@@ -45,3 +45,9 @@ hackintosh
 ##  Tutorial
 https://dortania.github.io/OpenCore-Install-Guide/
 
+## Create Bootable USB Mac Installer
+- [https://github.com/corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS)
+- [https://intozoom.com/gibmacos-create-bootable-usb/](https://intozoom.com/gibmacos-create-bootable-usb/)
+- [https://diskmakerx.com/download/](https://diskmakerx.com/download/)
+
+
