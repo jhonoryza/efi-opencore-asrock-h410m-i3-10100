@@ -1,6 +1,16 @@
 # OpenCore EFI AsRock H410M Core i3-10100 igpu
 hackintosh
 
+## Guide
+- After making bootable mac installer, run mount efi partition tool to your usb partition to open efi partition
+- Copy from this repo EFI folder to efi partition
+- Reboot and boot from your usb installer
+- Using disk utility format hardrive with apfs format
+- Install macos
+- After successfully install, Run mount efi partition tool again to mount efi partition from your installed hardrive
+- Copy EFI folder from usb installer to efi partition
+- Now you can boot to macos without usb installer
+
 ## Tools
 - [https://github.com/corpnewt/MountEFI](https://github.com/corpnewt/MountEFI) as mount efi partition
 - [https://github.com/corpnewt/ProperTree](https://github.com/corpnewt/ProperTree) as plist editor
